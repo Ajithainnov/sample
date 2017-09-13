@@ -3,7 +3,7 @@ public class palin
 {
 		public static void main(String[] args) 
     {
-     String input="abdmadamcbc";
+     String input="abcedefmadamstr";
      for(int i=0;i<input.length();i++)
      {
     	 for(int j=i+1;j<input.length();j++)
